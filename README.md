@@ -1,4 +1,4 @@
-# Sathi Lakshmi Narayana Reddy (luckysatti) 👋
+#  Hey, I'm **Sathi Lakshmi Narayana Reddy** !  👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathi-lakshmi-narayana-reddy-b05ab6284/)
 [![GitHub](https://img.shields.io/badge/GitHub-@luckysatti-black?logo=github&logoColor=white)](https://github.com/luckysatti)
@@ -6,8 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-luckysatti1045@gmail.com-red?logo=gmail&logoColor=white)](mailto:luckysatti1045@gmail.com)
 
 ---
-
-# 💫 Hey, I'm **Sathi Lakshmi Narayana Reddy** ! 
 
 ## 👨‍🎓 About Me
 
