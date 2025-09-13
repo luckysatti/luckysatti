@@ -98,6 +98,7 @@ Mohan Babu University — CGPA: 9.52
 ## 📈 GitHub Stats (optional)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckysatti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=luckysatti&theme=radical&margin-w=15&margin-h=15) 
 
 ---
 
