@@ -7,29 +7,18 @@
 
 ---
 
+# 💫 Hey, I'm **Sathi Lakshmi Narayana Reddy** ! 
+
 ## 👨‍🎓 About Me
 
-I'm **Sathi Lakshmi Narayana Reddy** — a B.Tech student in **Artificial Intelligence & Machine Learning** (Mohan Babu University) with a strong foundation in **Python, Java, DSA and SQL**, and hands-on experience building GUI/web apps and system simulators. I enjoy solving real-world problems, building clean code, and learning new technologies every day.
+I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artificial Intelligence & Machine Learning** (Mohan Babu University) with a strong foundation in **Python, Java, DSA and SQL**. I enjoy solving real-world problems, building clean code, and learning new technologies every day. I am good at **communication, problem solving and logiccal thinking**.
 
 ---
 
-## 🚀 Quick Highlights
-
-- **CGPA:** 9.52 (upto IV Sem)  
-- **Internships:** AIML Intern (AICTE/Eduskills), Java Full Stack Developer Intern (NETWORX) — built a Banking System using Spring Boot, JDBC & SQLite3.  
-- **100+ LeetCode problems completed** (fast problem-solving practice).  
-- Comfortable with frontend (HTML/CSS/JS), backend (Java, Spring Boot) and scripting (Python).
-
----
-
-## 🧰 Tech Stack
-
-**Languages & Data:** Python · Java · SQL · DSA  
-**Frameworks & Libraries:** Spring Boot · JDBC · Qt Designer · Flask · Streamlit · Pandas · NumPy  
-**Web & UI:** HTML5 · CSS3 · JavaScript  
-**Databases:** SQLite3 · MySQL  
-**Tools & Platforms:** VS Code · Jupyter · Google Colab · Replit  
-**ServiceNow:** CSA · CAD · Incident/Problem/Change Mgmt · Service Catalog · Virtual Agent
+## 📚 Education
+- **B.Tech in Artificial Intelligence and Machine Learning**  
+  *Mohan Babu University (2022 - 2026)*  
+  CGPA: **9.52**
 
 ---
 
@@ -62,10 +51,14 @@ I'm **Sathi Lakshmi Narayana Reddy** — a B.Tech student in **Artificial Intell
 
 ---
 
-## 📚 Education
+## 🧰 Tech Stack
 
-**B.Tech — Artificial Intelligence & Machine Learning** (2022 - 2026)  
-Mohan Babu University — CGPA: 9.52
+**Languages & Data:** Python · Java · SQL · DSA  
+**Frameworks & Libraries:** Spring Boot · JDBC · Qt Designer · Flask · Streamlit · Pandas · NumPy  
+**Web & UI:** HTML5 · CSS3 · JavaScript  
+**Databases:** SQLite3 · MySQL  
+**Tools & Platforms:** VS Code · Jupyter · Google Colab · Replit  
+**ServiceNow:** CSA · CAD · Incident/Problem/Change Mgmt · Service Catalog · Virtual Agent
 
 ---
 
@@ -82,7 +75,7 @@ Mohan Babu University — CGPA: 9.52
 
 - Secured 1st place in running competitions (3rd standard)  
 - Secured 1st place in district-level abacus competition (6th standard)  
-- Completed 100 LeetCode problems in less than a month
+- **100+ LeetCode problems completed** in less than a month
 
 ---
 
@@ -97,6 +90,7 @@ Mohan Babu University — CGPA: 9.52
 
 ## 📈 GitHub Stats (optional)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckysatti&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckysatti&theme=radical&margin-w=15&margin-h=15) 
 
