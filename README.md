@@ -88,19 +88,10 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ---
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckysatti&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckysatti&theme=radical&margin-w=15&margin-h=15) 
 
 ---
 
-## 📝 Notes & Next Steps I can help with
-- Create a **GitHub profile repository** named exactly `luckysatti` and push this README to make it your profile README.  
-- Generate a clean **banner image** and **project GIFs/screenshots** for the Projects section.  
-- Add GitHub Action to automatically update the README (e.g., latest blog posts / daily quote).  
-- Help you set up **GitHub Pages** for a personal portfolio and deploy project demos (Streamlit, Flask) live.
-
----
-
-*README prepared from information in the resume you uploaded.*  
