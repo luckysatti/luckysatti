@@ -38,7 +38,8 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ### Fantasy Cricket Application
 - **Description:** GUI-based fantasy cricket app (Python + SQLite). Create teams, add players, calculate scores, and customize teams based on points.  
-- **Repo / Demo:** https://github.com/luckysatti/Fantasy-Cricket-Application
+- **Repo:** https://github.com/luckysatti/Fantasy-Cricket-Application
+- **Demo:** https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_excited-to-share-my-latest-project-activity-7211786994459271168-Ejiz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk
 
 ### Banking System (Spring Boot + SQLite3)
 - **Description:** Java banking system with account management, transactions and history. Built using Spring Boot and JDBC with SQLite.  
@@ -46,8 +47,8 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ### Electricity Bill Management — ServiceNow
 - **Description:** Built a ServiceNow application for consumer details, bills and payment receipts. Integrated a Virtual Agent for conversational interactions.
+- **Demo:** https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_servicenow-learningbydoing-servicenowdeveloper-activity-7370362503954022400--CMW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk
 
-> More projects and details are available in my GitHub repositories and linked portfolio.
 
 ---
 
@@ -90,8 +91,10 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ## 📈 GitHub Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckysatti&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical) 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckysatti&theme=radical&margin-w=15&margin-h=15) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
+
 
 ---
 
