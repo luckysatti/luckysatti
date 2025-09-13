@@ -38,16 +38,16 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ### Fantasy Cricket Application
 - **Description:** GUI-based fantasy cricket app (Python + SQLite). Create teams, add players, calculate scores, and customize teams based on points.  
-- **Repo:** https://github.com/luckysatti/Fantasy-Cricket-Application
-- **Demo:** https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_excited-to-share-my-latest-project-activity-7211786994459271168-Ejiz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk
+- **Repo:** [GitHub](https://github.com/luckysatti/Fantasy-Cricket-Application)
+- **Demo:** [LinkedIn](https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_excited-to-share-my-latest-project-activity-7211786994459271168-Ejiz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk)
 
 ### Banking System (Spring Boot + SQLite3)
 - **Description:** Java banking system with account management, transactions and history. Built using Spring Boot and JDBC with SQLite.  
-- **Repo:** https://github.com/luckysatti/Banking-System
+- **Repo:** [GitHub](https://github.com/luckysatti/Banking-System)
 
 ### Electricity Bill Management — ServiceNow
 - **Description:** Built a ServiceNow application for consumer details, bills and payment receipts. Integrated a Virtual Agent for conversational interactions.
-- **Demo:** https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_servicenow-learningbydoing-servicenowdeveloper-activity-7370362503954022400--CMW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk
+- **Demo:** [LinkedIn](https://www.linkedin.com/posts/sathi-lakshmi-narayana-reddy-b05ab6284_servicenow-learningbydoing-servicenowdeveloper-activity-7370362503954022400--CMW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU34bUBnfFrkkibKaBaNCjQKmkWr3IGqRk)
 
 
 ---
