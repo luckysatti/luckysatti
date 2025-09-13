@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathi-lakshmi-narayana-reddy-b05ab6284/)
 [![GitHub](https://img.shields.io/badge/GitHub-@luckysatti-black?logo=github&logoColor=white)](https://github.com/luckysatti)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/luckysatti1045)
-[![Email](https://img.shields.io/badge/Email-luckysatti1045@gmail.com-red?logo=gmail&logoColor=white)](mailto:luckysatti1045@gmail.com)
+[![Email](https://img.shields.io/badge/Email-luckysatti1045@gmail.com-red?logo=gmail&logoColor=white)](mailto:luckysatti1045@gmail.com) 
 
 ---
 
