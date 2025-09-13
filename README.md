@@ -81,17 +81,16 @@ I'm **Sathi Lakshmi Narayana Reddy** — a Final-year B.Tech student in **Artifi
 
 ## 📫 Contact
 
-- Email: luckysatti1045@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sathi-lakshmi-narayana-reddy-b05ab6284/  
-- GitHub: https://github.com/luckysatti  
-- HackerRank: https://www.hackerrank.com/profile/luckysatti1045
+📍 Tirupati, Andhra Pradesh  
+📧 **luckysatti1045@gmail.com**  
+📱 **+91 9390984914**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sathi-lakshmi-narayana-reddy-b05ab6284/) | [GitHub](https://github.com/luckysatti) | [HackerRank](https://www.hackerrank.com/profile/luckysatti1045) | [LeetCode](https://leetcode.com/u/luckysatti1045/)  
 
 ---
 
 ## 📈 GitHub Stats (optional)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckysatti&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckysatti&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckysatti&layout=compact)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=luckysatti&theme=radical&margin-w=15&margin-h=15) 
 
 ---
